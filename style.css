@@ -1,0 +1,42 @@
+<style>
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700);
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+	color: rgba(0, 0, 0, 0.87);
+}
+
+h1 {
+    color: #2196F3;
+    font-size: 200%;
+}
+
+div.cell {
+    width:800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.input_area {
+    background-color: #ECEFF1;
+    border: 1px solid #CFD8DC;
+}
+
+.prompt {
+    display: None;
+}
+
+div.MathJax_Display {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+div.text_cell_render {
+    line-height: 150%;
+    font-size: 120%;
+    width:800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
